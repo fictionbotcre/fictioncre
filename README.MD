@@ -1,7 +1,9 @@
 fictioncre project 
 
-Supported languages:koea 
+Supported languages:koea
+ 
 Future plans : English
+
 
 The role of support for amateur fiction writer.
 
