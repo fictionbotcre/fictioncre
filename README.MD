@@ -1,6 +1,6 @@
 fictioncre project 
 
-Supported languages:koea
+Supported languages:korea
  
 Future plans : English
 
