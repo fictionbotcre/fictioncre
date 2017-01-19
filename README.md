@@ -33,3 +33,7 @@ The role of support for amateur fiction writer.
                                 ..,:,..,,,,,,,,,,,,,,.,::...                              
                                      ,.             ,,                                    
                                           ...,...                                         
+
+                                          
+                                          
+license = U-S CODE - 001 - SECTION 005 = A
