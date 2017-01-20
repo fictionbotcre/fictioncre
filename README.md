@@ -38,11 +38,5 @@ The role of support for amateur fiction writer.
                                           
 license = U-S CODE - 001 - SECTION 005 = A
 
-이번 프로젝트를 위해 준비과정은 전부 깔끔하게 마쳤습니다.  
-
-그전의 프로젝트는 이 프로젝트를 위해 시행되었던 프로젝트이다. 
-
-중요 소스는 코드팬을 사용중. 
-
  
 
